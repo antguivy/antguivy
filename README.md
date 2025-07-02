@@ -29,13 +29,7 @@ Development & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-🚀 Proyectos
 Explora mis proyectos en [datantho.online/project](https://datantho.online/project)
 
-📫 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](tu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://datantho.online)
 
----
-*"Construyendo el futuro con datos, un pipeline a la vez"*
+
